@@ -3,8 +3,7 @@ export enum SelectedPage
     Home = "home",
     Benefits = "benefits",
     OurClasses = "ourClasses",
-    ContactUs = "contactUs",
-    Benefit = "Benefit"
+    ContactUs = "contactUs"
 }
 
 export interface BenefitType
