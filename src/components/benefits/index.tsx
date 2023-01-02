@@ -48,7 +48,7 @@ const Benefits = ({ setSelectedPage }: Props) =>
             className='mx-auto min-h-full w-5/6 py-10'
         >
             <motion.div
-                onViewportEnter={() => setSelectedPage(SelectedPage.Benefits)}
+                onViewportEnter={() => setSelectedPage(SelectedPage.Benefit)}
             >
                 <motion.div
                     initial="hidden"
